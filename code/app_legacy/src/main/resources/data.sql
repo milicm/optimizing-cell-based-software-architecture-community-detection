@@ -1,0 +1,15 @@
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 1', 'Hackett LLC desc1', 199.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 2', 'Balistreri Inc desc2', 299.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 3', 'Swift, Turcotte and Haley desc3', 399.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 4', 'Yost LLC desc4', 499.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 5', 'Keeling, Schultz and Kiehn desc5', 599.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 6', 'Gerlach-Rath desc6', 699.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 7', 'Williamson and Sons desc7', 799.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 8', 'Hegmann-Prohaska desc8', 899.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 9', 'Larkin-Schmitt desc9', 999.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 10', 'McGlynn Inc desc10', 1099.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 11', 'Leffler, Gulgowski and Dicki desc11', 1199.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 12', 'Schneider Group desc12', 1299.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 13', 'Johnson Group desc13', 1399.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 14', 'Kozey-Romaguera desc14', 1499.99, 'PCS', 0);
+INSERT INTO product(name, description, price, measurement_unit, total_units) VALUES ('Product 15', 'Douglas-Donnelly desc15', 1599.99, 'PCS', 0);
