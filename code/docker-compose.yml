@@ -1,0 +1,61 @@
+version: '3'
+services:
+  app:
+    build:
+      context: ./app_legacy
+    ports:
+      - "8081:8081"
+    networks:
+      - comsis-network
+
+  orderapp:
+    build:
+      context: ./app_order
+    ports:
+      - "8082:8082"
+    networks:
+      - comsis-network
+
+  notificationapp:
+    build:
+      context: ./app_notification
+    ports:
+      - "8083:8083"
+    networks:
+      - comsis-network
+
+  paymentapp:
+    build:
+      context: ./app_payment
+    ports:
+      - "8084:8084"
+    networks:
+      - comsis-network
+
+  productapp:
+    build:
+      context: ./app_product
+    ports:
+      - "8085:8085"
+    networks:
+      - comsis-network
+
+  inventoryapp:
+    build:
+      context: ./app_inventory
+    ports:
+      - "8086:8086"
+    networks:
+      - comsis-network
+
+  productionapp:
+    build:
+      context: ./app_production
+    ports:
+      - "8087:8087"
+    networks:
+      - comsis-network
+
+networks:
+  comsis-network:
+    driver: bridge
