@@ -1,0 +1,201 @@
+production_id,production_name,production_date,production_status
+1,Hackett LLC,2024-10-09,CREATED
+2,Howell-Altenwerth,2024-11-06,CREATED
+3,"Wiegand, Graham and Greenholt",2024-04-11,CREATED
+4,Auer-Graham,2024-03-09,CREATED
+5,Shields-Stokes,2024-02-17,CREATED
+6,Fritsch and Sons,2024-04-11,CREATED
+7,Balistreri Inc,2024-01-27,CREATED
+8,Boehm Inc,2024-09-11,CREATED
+9,Hamill LLC,2024-08-10,CREATED
+10,Cronin-Leffler,2024-04-29,CREATED
+11,Leannon Inc,2024-02-09,DEFECTED
+12,Kuhic Inc,2024-08-12,DEFECTED
+13,Vandervort and Sons,2025-01-27,DEFECTED
+14,Hettinger Group,2024-04-29,DEFECTED
+15,Stamm and Sons,2024-06-04,DEFECTED
+16,Wilderman and Sons,2024-07-08,DEFECTED
+17,Brown and Sons,2025-01-15,DEFECTED
+18,Hermann-DuBuque,2024-10-01,DEFECTED
+19,"Swift, Turcotte and Haley",2024-08,DEFECTED
+20,Hahn-Wilkinson,2024-02-24,DEFECTED
+21,Welch-Hane,2024-11-21,DEFECTED
+22,Yost LLC,2024-07-01,DEFECTED
+23,Robel Inc,2024-08-09,DEFECTED
+24,"Keeling, Schultz and Kiehn",2025-01-15,DEFECTED
+25,"Mante, Durgan and Bayer",2025-02-04,STARTED
+26,Morissette and Sons,2024-03-01,STARTED
+27,Gerlach-Rath,2024-10-03,STARTED
+28,"Boyer, Rodriguez and Raynor",2024-03-11,STARTED
+29,Williamson and Sons,2024-04-01,STARTED
+30,"Barton, Pollich and Crona",2024-09-21,STARTED
+31,Hegmann-Prohaska,2024-02-14,STARTED
+32,Emmerich and Sons,2024-02-09,STARTED
+33,"Ziemann, Considine and Tillman",2024-04-18,STARTED
+34,Tromp-Muller,2024-07-01,STARTED
+35,Goldner-Windler,2024-04-19,STARTED
+36,Powlowski-Altenwerth,2025-02-27,STARTED
+37,Batz LLC,2024-08-03,STARTED
+38,Goldner Group,2024-11-11,STARTED
+39,Daniel Group,2024-07-19,STARTED
+40,"White, Hahn and Oberbrunner",2024-01-21,STARTED
+41,Wiza-Leffler,2024-03-17,STARTED
+42,Larkin-Schmitt,2024-05-19,STARTED
+43,Osinski Inc,2024-07-01,STARTED
+44,Farrell-Effertz,2024-07-23,STARTED
+45,Feil-Kunze,2024-01-14,STARTED
+46,Larkin Group,2024-04-23,STARTED
+47,"Lowe, Sawayn and Lehner",2024-11-24,STARTED
+48,"Brekke, Nikolaus and Veum",2024-09-29,STARTED
+49,Friesen-Tromp,2024-06-30,STARTED
+50,McKenzie Inc,2024-09-05,STARTED
+51,McCullough Inc,2024-09-05,STARTED
+52,McGlynn Inc,2024-04-10,STARTED
+53,Hane Group,2024-05-21,STARTED
+54,"Leffler, Gulgowski and Dicki",2024-08-02,STARTED
+55,"Homenick, Rolfson and Ruecker",2024-03-28,FINISHED
+56,Schneider Group,2025-02-13,FINISHED
+57,"Aufderhar, Carroll and Hoeger",2024-02-04,FINISHED
+58,Johnson Group,2024-10-14,FINISHED
+59,Kozey-Romaguera,2024-06-22,FINISHED
+60,Beer-Stokes,2025-02-27,FINISHED
+61,Douglas-Donnelly,2024-03-09,FINISHED
+62,Reilly and Sons,2025-03-02,FINISHED
+63,"Johnson, Stokes and Bahringer",2024-03-19,FINISHED
+64,Bergstrom-Walter,2025-01-13,FINISHED
+65,"Sporer, Reinger and Auer",2024-06-23,FINISHED
+66,Wiza LLC,2025-03-03,FINISHED
+67,Kutch-Feil,2025-01-26,FINISHED
+68,"Mueller, Schulist and Larkin",2024-01-17,FINISHED
+69,Lakin and Sons,2024-03-03,FINISHED
+70,Christiansen-Dickens,2024-12-31,FINISHED
+71,"Jacobi, Treutel and Ondricka",2024-11-09,FINISHED
+72,Labadie-Ernser,2024-11-02,FINISHED
+73,Howell LLC,2024-03-29,FINISHED
+74,"Funk, Beatty and Howe",2024-01-13,FINISHED
+75,Walker LLC,2024-04-15,FINISHED
+76,Ankunding and Sons,2024-04-14,FINISHED
+77,Wisoky-Ward,2024-07-16,FINISHED
+78,Baumbach LLC,2024-11-11,FINISHED
+79,"Rodriguez, Kessler and Walsh",2024-01-02,FINISHED
+80,Kshlerin-Schinner,2024-08-19,FINISHED
+81,"Stark, Stiedemann and Ferry",2024-06-28,CREATED
+82,"Franecki, Treutel and Corwin",2024-06-10,CREATED
+83,"Rowe, Christiansen and Sauer",2024-09-18,CREATED
+84,Kemmer and Sons,2024-07-18,CREATED
+85,Abshire and Sons,2024-09-25,CREATED
+86,Cummerata-Schultz,2024-12-01,CREATED
+87,Mertz-Torphy,2024-07-08,CREATED
+88,Stiedemann and Sons,2025-02-05,CREATED
+89,Block-Kessler,2024-08-23,CREATED
+90,Cassin Group,2024-06-04,CREATED
+91,Ortiz-Rowe,2024-04-22,CREATED
+92,Monahan-Hills,2024-08-20,CREATED
+93,Botsford-Walker,2024-02-06,CREATED
+94,"Maggio, Dare and Grant",2024-02-07,CREATED
+95,Sipes-O'Keefe,2024-01-19,CREATED
+96,"Nikolaus, Lowe and Frami",2024-05-03,CREATED
+97,Kautzer-Kulas,2024-10-04,CREATED
+98,Breitenberg-Lockman,2024-08-04,CREATED
+99,"Dibbert, Harris and Sanford",2024-02-25,CREATED
+100,Considine-Welch,2024-02-23,CREATED
+101,Ruecker and Sons,2024-10-20,STARTED
+102,"Haag, Collins and Larkin",2024-04-22,STARTED
+103,Schaden Group,2024-03-25,STARTED
+104,Little Inc,2024-04-09,STARTED
+105,"Ward, Metz and Jacobs",2024-01-06,STARTED
+106,Wolff Group,2024-08-03,STARTED
+107,"Kutch, Mitchell and Wolff",2024-12-04,STARTED
+108,Swift-Gislason,2024-03-07,STARTED
+109,"Boehm, Durgan and Schowalter",2025-02-24,STARTED
+110,"Glover, Hudson and Wolf",2024-12-21,STARTED
+111,Howe-Hahn,2024-02-21,STARTED
+112,Jerde-Koss,2024-07-31,STARTED
+113,"Dare, Champlin and Hoeger",2025-01-04,STARTED
+114,Nikolaus Group,2024-07-14,STARTED
+115,Kreiger Group,2025-02-10,STARTED
+116,"Hand, Koelpin and O'Reilly",2024-12-07,STARTED
+117,"Brekke, Kilback and Mohr",2024-05-05,STARTED
+118,Borer-Schoen,2024-12-12,STARTED
+119,Ritchie-Nolan,2024-04-30,STARTED
+120,Raynor-Hackett,2024-08-15,STARTED
+121,Leuschke-Ward,2024-10-04,STARTED
+122,Gulgowski-Gerhold,2024-05-03,STARTED
+123,Purdy LLC,2025-01-03,STARTED
+124,Larson LLC,2024-05-21,STARTED
+125,Hoeger-MacGyver,2024-04-03,STARTED
+126,Lehner Group,2024-05-27,STARTED
+127,"DuBuque, Hilll and Mills",2024-04-20,STARTED
+128,Satterfield-Emard,2024-01-23,STARTED
+129,"Runolfsdottir, Weimann and Olson",2025-01-22,STARTED
+130,Stoltenberg-Jenkins,2024-12-13,STARTED
+131,Carroll-Okuneva,2024-10-02,STARTED
+132,Hudson LLC,2024-01-14,STARTED
+133,Reynolds and Sons,2024-05-16,STARTED
+134,"Mayer, Konopelski and Sporer",2024-05-25,STARTED
+135,Leffler Inc,2024-09-24,STARTED
+136,Heaney Group,2024-12-10,STARTED
+137,Gorczany-Koch,2024-07-31,STARTED
+138,Hyatt-Grimes,2025-01-30,STARTED
+139,"Little, Gleason and Conn",2024-05-29,STARTED
+140,Aufderhar-Waelchi,2024-05-27,STARTED
+141,"Gulgowski, Dooley and Huels",2024-04-13,STARTED
+142,"Hamill, Mohr and Mills",2024-07-21,STARTED
+143,Toy Group,2024-07-14,STARTED
+144,"Wintheiser, Frami and McCullough",2025-01-09,STARTED
+145,Willms Group,2024-11-18,STARTED
+146,"Hegmann, Brekke and Homenick",2025-01-21,STARTED
+147,Cassin-Stehr,2024-07-02,STARTED
+148,Wuckert-Trantow,2025-02-17,STARTED
+149,Koepp-McLaughlin,2025-02-18,STARTED
+150,Ritchie-MacGyver,2024-05-17,STARTED
+151,Dare-Bernhard,2025-01-29,STARTED
+152,"Emard, Tillman and Schamberger",2024-08-07,STARTED
+153,Mills-Kling,2024-11-29,STARTED
+154,Krajcik LLC,2024-06-06,STARTED
+155,"Torp, Johnson and Balistreri",2024-03-26,STARTED
+156,"Boyle, Kunde and Konopelski",2024-10-04,STARTED
+157,Vandervort-Rogahn,2024-05-20,STARTED
+158,Green LLC,2024-10-30,STARTED
+159,"D'Amore, Nolan and Frami",2024-05-14,STARTED
+160,"Nikolaus, Anderson and Boehm",2025-02-18,STARTED
+161,Rath-Luettgen,2024-12-04,STARTED
+162,Wehner-Huel,2024-12-31,STARTED
+163,Wilkinson-Fritsch,2025-02-23,STARTED
+164,"Muller, Turner and Willms",2024-01-17,STARTED
+165,Raynor LLC,2024-05-12,STARTED
+166,"Schmeler, Bahringer and Purdy",2025-01-24,STARTED
+167,Toy-Fahey,2024-11-15,STARTED
+168,Hyatt-Stamm,2024-06-30,STARTED
+169,Kohler-Durgan,2024-06-29,STARTED
+170,Barton Inc,2025-02-24,STARTED
+171,"Weber, Johnston and Schulist",2024-10-21,STARTED
+172,"Abshire, Graham and Jakubowski",2024-11-10,STARTED
+173,Hahn-Jacobi,2024-08-12,STARTED
+174,"Lockman, Herman and Leffler",2024-03-30,FINISHED
+175,"Williamson, Zboncak and Herman",2025-02-20,FINISHED
+176,Rolfson Group,2025-01-18,FINISHED
+177,Hamill-Terry,2024-06-12,FINISHED
+178,Mayert-Stehr,2024-07-29,FINISHED
+179,"Fadel, McKenzie and Littel",2024-07-22,FINISHED
+180,"Cassin, Smitham and Kuhlman",2024-10-31,FINISHED
+181,Hilll-Lockman,2024-05-21,FINISHED
+182,Green LLC,2024-03-28,FINISHED
+183,Schmeler-Larkin,2024-07-08,FINISHED
+184,Hoeger and Sons,2024-04-02,FINISHED
+185,"Crona, Lakin and Feil",2024-02-22,FINISHED
+186,Jones Inc,2024-04-12,FINISHED
+187,Heathcote Inc,2024-01-03,FINISHED
+188,Cole-Roob,2025-02-15,FINISHED
+189,Schuster-Rippin,2024-06-11,FINISHED
+190,Kassulke Group,2024-11-23,FINISHED
+191,"Ankunding, Hane and Davis",2024-08-15,FINISHED
+192,Sporer-Torphy,2025-02-20,FINISHED
+193,Doyle-Nader,2024-09-23,FINISHED
+194,Collins LLC,2025-02-25,FINISHED
+195,Osinski and Sons,2024-04-16,FINISHED
+196,Goldner Inc,2024-09-21,FINISHED
+197,"Goodwin, Rogahn and Crist",2024-07-07,FINISHED
+198,Kling-Kuvalis,2024-04-29,FINISHED
+199,Murphy LLC,2024-09-01,FINISHED
+200,Kub-Stamm,2024-05-24,FINISHED

@@ -1,0 +1,21 @@
+customer,productId,price,vat,total,orderDate
+Milos Milic,1,199.99,10,299.99,2025-02-26
+Ana Petrovic-Jovic,2,250.5,12,350.5,2025-03-15
+Nikola Dragan Jovanovic,3,150,8,200,2025-04-01
+Ivana Markovic,4,300.25,15,450.25,2025-05-10
+Petar Kostic Markovic,1,100.75,5,150.75,2025-06-20
+Jelena Stankovic,1,220.9,11,330.9,2025-07-05
+Marko Popovic,2,180.4,9,270.4,2025-08-12
+Sofija Ilic Jovic,3,280.6,14,420.6,2025-09-22
+Luka Djordjevic,3,120.3,6,180.3,2025-10-30
+Teodora Savic,4,260.8,13,390.8,2025-11-18
+Sasa Milic,1,299.99,4,300.99,2025-02-26
+Dragan Jovic,3,399.99,5,200.99,2025-03-15
+Dragan Jovanovic Antic,4,499.99,12,400.99,2025-04-01
+Ivana Markovic Dulic,2,199.99,10,500.99,2025-05-10
+Ivan Milan Kostic,1,299.99,9,600.99,2025-06-20
+Pavle Stankovic,3,399.99,8,700.99,2025-07-05
+Jovan Popovic,4,499.99,7,100.99,2025-08-12
+Ivana Jovic Jevtic,2,299.99,15,200.99,2025-09-22
+Luka Djordjevic,1,199.99,4,300.99,2025-10-30
+Teodora Savic Stevic,2,299.99,6,400.99,2025-11-18
