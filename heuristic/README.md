@@ -2,7 +2,7 @@
 
 Contains the source code for the developed heuristic. [Python](https://www.python.org) must be installed to run the heuristic.
 
-### Steps for running the software system:
+### Steps for executing the heuristic:
 
 Prerequisites: Python is installed.
 
