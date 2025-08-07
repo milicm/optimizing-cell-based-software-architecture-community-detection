@@ -2,7 +2,7 @@
 
 Contains the source code of the developed software system related to a manufacturing domain. [Docker Engine](https://www.docker.com) must be installed to build and run the container.
 
-### Steps for running the software system:
+### Instructions for running the software system:
 
 Prerequisites: Docker Engine is up and running.
 
