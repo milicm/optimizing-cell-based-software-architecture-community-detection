@@ -1,3 +1,3 @@
-# Simulation Results
+## Simulation Results
 
 Contains the file `results.csv` with simulation results.
