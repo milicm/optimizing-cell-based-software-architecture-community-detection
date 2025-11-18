@@ -7,5 +7,4 @@ This repository contains data for the research paper titled *"Optimizing Cell-Ba
 - [`simulation_results`](simulation_results) – Contains the file `results.csv` with simulation results.
 - [`input_data`](input_data) – Provides various input data used for optimization.
 - [`mathematical_model`](mathematical_model) – Contains the `GLPK` `.mod` file for the developed mathematical model. [GLPK – GNU Linear Programming Kit](https://www.gnu.org/software/glpk) must be installed to run the model.
-- [`optimization_results`](optimization_results) – Includes the results of the optimization process.
 - [`heuristic`](heuristic) – Contains the source code for the developed heuristic. [Python](https://www.python.org) must be installed to run the heuristic.
