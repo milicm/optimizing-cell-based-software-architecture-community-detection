@@ -1,6 +1,6 @@
 # Optimizing Cell-Based Software Architecture through Heuristic Community Detection Approach
 
-This repository contains data for the research paper titled *"Optimizing Cell-Based Software Architecture through Heuristic Community Detection Approach"* by Miloš Milić, Nebojša Nikolić, and Dragana Makajić-Nikolić. The repository includes the following artefacts:
+This repository contains data for the research paper Milić, M., Nikolić, N., Makajić-Nikolić, D.: Optimizing Cell-Based Software Architecture through Heuristic Community Detection Approach. Computer Science and Information Systems, Vol. 23, No. 1, 1-31, 2026, https://doi.org/10.2298/CSIS251110001M. The repository includes the following artefacts:
 
 - [`code`](code) – Contains the source code of the developed software system related to a manufacturing domain. [Docker Engine](https://www.docker.com) must be installed to build and run the container.
 - [`simulation_test_plan`](simulation_test_plan) – Includes the file `community_detection_test_plan.jmx` and accompanying CSV files with mock data. [Apache JMeter](https://jmeter.apache.org) must be installed to execute the simulation test plan.
